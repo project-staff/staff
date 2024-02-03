@@ -4,3 +4,5 @@
 
 [YouTube playlist с записями стримов](https://youtube.com/playlist?list=PLThWdZgcOPOxvJrHv_l9gwtsGflZIfQpU&si=utqk3-_YVA_-vV93).
 
+[Материалы](materials.md).
+
